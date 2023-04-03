@@ -13,4 +13,4 @@
 
 <br><br>
 
- I am a [Industrial Engineering](https://enm.yildiz.edu.tr/) Student at [Yildiz Technical University ](https://yildiz.edu.tr/).
+ I am a [Industrial Engineering](https://enm.yildiz.edu.tr/) Student at [Yildiz Technical University ](https://yildiz.edu.tr/)
